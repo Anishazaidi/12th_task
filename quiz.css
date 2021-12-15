@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+input{
+    border-color: blueviolet;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+    gap: 5%;
+    background-color: blueviolet; 
+    padding: 2%;
+    color: aliceblue; 
+}
+button{
+    display: flex;
+    background-color: blueviolet;
+    margin-left: 47%;
+    border: none;
+    font-size: 16px; 
+    margin-top: 1%;
+    width: 7%;
+    padding: 0.5%;
+    color: white;
+    border-radius: 5px;
+}
+.link{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
